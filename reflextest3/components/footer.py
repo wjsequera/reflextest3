@@ -11,7 +11,7 @@ def footer()-> rx.Component:
                         href=const.WJSSEQUERA_TWICH,
                         is_external=True,margin_top="0px"
                         ),
-                rx.text("2025 wjsequera@gmail.com. python and reflex ptractice",
+                rx.text("2025 wjsequera@gmail.com. python developer practice",
                         margin_top="0px",
                         color=TextColor.FOOTER.value
                         ),
