@@ -7,7 +7,7 @@ import reflextest3.constants as const
 def footer()-> rx.Component:
     return rx.vstack(
                 rx.image(src="publicidadScada.png", width="80px", height="80px", margin_bottom="0px"),
-                rx.link(f"2020-{datetime.date.today().year} wjsequera@gmail.com. python develpoer practice",
+                rx.link(f"2020-{datetime.date.today().year} wjsequera@gmail.com. python developer practice",
                         href=const.WJSSEQUERA_TWICH,
                         is_external=True,margin_top="0px"
                         ),
