@@ -33,7 +33,7 @@ def header()-> rx.Component:
                                     width="100%"),  #,font_weight="bold"
                             rx.hstack(
                                 link_icon(const.WJSEQUERA_SITE_GOOGLE),
-                                link_icon(const.SEQUERAWJ_TWITTER), 
+                                link_icon(const.WJSEQUERA_SITE_REFLEX), 
                                 link_icon(const.WJSSEQUERA_TWICH),
                                 ),
                         

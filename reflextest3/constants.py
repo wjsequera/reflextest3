@@ -12,6 +12,7 @@ WJSEQUERA_SITE_GOOGLE="http://sites.google.com/view/wjsequera"
 WJSSEQUERA_TWICH="https://twitch.tv/wjssequera"
 WJSEQUERA_YOUTUBE= "http://www.youtube.com/@U2wjsequera"
 SEQUERAWJ_TWITTER= "https://x.com/sequerawj"
+WJSQUERA_SITE_REFLEX="https://reflextest3-blue-grass.reflex.run"
 # SPONSORS
 ELGATO_URL=""
 MVP_URL=""
@@ -22,7 +23,7 @@ MVP_URL=""
 #SENSOR HOME SERVER
     # IP VISTA DESDE EL EXTERIOR
 
-EXTERNAL_IP="190.206.67.214"
+EXTERNAL_IP="201.210.64.192"
 EXTERNAL_PORT=1002
 
      # IP VISTA LOCALMENTE (CASA)
