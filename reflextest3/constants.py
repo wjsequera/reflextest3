@@ -12,7 +12,7 @@ WJSEQUERA_SITE_GOOGLE="http://sites.google.com/view/wjsequera"
 WJSSEQUERA_TWICH="https://twitch.tv/wjssequera"
 WJSEQUERA_YOUTUBE= "http://www.youtube.com/@U2wjsequera"
 SEQUERAWJ_TWITTER= "https://x.com/sequerawj"
-WJSQUERA_SITE_REFLEX="https://reflextest3-blue-grass.reflex.run"
+WJSEQUERA_SITE_REFLEX="https://reflextest3-blue-grass.reflex.run"
 # SPONSORS
 ELGATO_URL=""
 MVP_URL=""
